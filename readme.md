@@ -12,3 +12,7 @@ One of the basic rules of EVM is that once a contract is deployed, it cannot be 
 ![image 2](https://i0.wp.com/blog.openzeppelin.com/wp-content/uploads/2020/09/graph-04.png?resize=840%2C420&ssl=1)
 
 ![image3](https://res.cloudinary.com/practicaldev/image/fetch/s--nGhnsYS9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/84bmjpjdb8d7rbc4szqc.png)
+
+Note:
+
+- upgradable contract implementation have no constructor.
