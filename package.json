@@ -1,0 +1,15 @@
+{
+  "name": "upgradeable-contracts",
+  "version": "1.0.0",
+  "description": "upgradeable contract using Open Zeppelin",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "smart contract",
+    "upgradeable contract",
+    "Open Zeppelin",
+    "solidity"
+  ],
+  "author": "",
+  "license": "ISC"
+}
